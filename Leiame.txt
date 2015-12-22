@@ -1,0 +1,13 @@
+Creating and Publishing a Package
+http://docs.nuget.org/docs/creating-packages/creating-and-publishing-a-package
+
+Passos para criação e publicação do pacote
+
+1º - Altere o arquivo "Boleto.Net.2.0.1.spec" para a versão a ser atualizada
+
+2º - Crie o pacote .nupkg
+   - D:\Codeplex\TFS08\boletonet\Release\Final\.nuget\nuget.exe pack D:\Codeplex\TFS08\boletonet\Release\Final\NuGet\Boleto.Net\Boleto.Net.2.0.23.nuspec
+   - Jogue o arquivo criado na pasta NuGet/Boleto.Net
+
+3º - Envie o pacote .nupkg
+   - D:\Codeplex\TFS08\boletonet\Release\Final\.nuget\nuget.exe push D:\Codeplex\TFS08\boletonet\Release\Final\NuGet\Boleto.Net\Boleto.Net.2.0.23.nupkg {apikey}

@@ -1,0 +1,12 @@
+D:\Projetos\Boleto.Net\Final\Boleto.Net\obj\Debug\BoletoNet.Html.resources
+D:\Projetos\Boleto.Net\Final\Boleto.Net\obj\Debug\Boleto.Net.csproj.GenerateResource.Cache
+D:\Projetos\Boleto.Net\Final\Boleto.Net\bin\Debug\Boleto.Net.dll
+D:\Projetos\Boleto.Net\Final\Boleto.Net\bin\Debug\Boleto.Net.pdb
+D:\Projetos\Boleto.Net\Final\Boleto.Net\obj\Debug\Boleto.Net.dll
+D:\Projetos\Boleto.Net\Final\Boleto.Net\obj\Debug\Boleto.Net.pdb
+C:\cx postal\Boleto.NET_DiegoSilveira\Final\Boleto.Net\bin\Debug\Boleto.Net.dll
+C:\cx postal\Boleto.NET_DiegoSilveira\Final\Boleto.Net\bin\Debug\Boleto.Net.pdb
+C:\cx postal\Boleto.NET_DiegoSilveira\Final\Boleto.Net\obj\Debug\BoletoNet.Html.resources
+C:\cx postal\Boleto.NET_DiegoSilveira\Final\Boleto.Net\obj\Debug\Boleto.Net.csproj.GenerateResource.Cache
+C:\cx postal\Boleto.NET_DiegoSilveira\Final\Boleto.Net\obj\Debug\Boleto.Net.dll
+C:\cx postal\Boleto.NET_DiegoSilveira\Final\Boleto.Net\obj\Debug\Boleto.Net.pdb
